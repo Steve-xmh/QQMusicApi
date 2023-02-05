@@ -2,8 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "./bin/www",
-      "use": "@vercel/node@2.8.17"
+      "src": "./bin/www.js",
+      "use": "@vercel/node"
     }
   ],
   "routes": [
